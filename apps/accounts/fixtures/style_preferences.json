@@ -1,0 +1,9 @@
+[
+  {"model": "accounts.stylepreference", "pk": 1, "fields": {"name": "Minimalist", "slug": "minimalist"}},
+  {"model": "accounts.stylepreference", "pk": 2, "fields": {"name": "Streetwear", "slug": "streetwear"}},
+  {"model": "accounts.stylepreference", "pk": 3, "fields": {"name": "Formal", "slug": "formal"}},
+  {"model": "accounts.stylepreference", "pk": 4, "fields": {"name": "Athletic", "slug": "athletic"}},
+  {"model": "accounts.stylepreference", "pk": 5, "fields": {"name": "Casual", "slug": "casual"}},
+  {"model": "accounts.stylepreference", "pk": 6, "fields": {"name": "Bohemian", "slug": "bohemian"}},
+  {"model": "accounts.stylepreference", "pk": 7, "fields": {"name": "Classic", "slug": "classic"}}
+]

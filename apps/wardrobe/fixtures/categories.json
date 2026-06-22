@@ -1,0 +1,8 @@
+[
+  {"model": "wardrobe.category", "pk": 1, "fields": {"name": "Tops", "slug": "tops", "warmth_relevant": true}},
+  {"model": "wardrobe.category", "pk": 2, "fields": {"name": "Bottoms", "slug": "bottoms", "warmth_relevant": true}},
+  {"model": "wardrobe.category", "pk": 3, "fields": {"name": "Outerwear", "slug": "outerwear", "warmth_relevant": true}},
+  {"model": "wardrobe.category", "pk": 4, "fields": {"name": "Shoes", "slug": "shoes", "warmth_relevant": true}},
+  {"model": "wardrobe.category", "pk": 5, "fields": {"name": "Accessories", "slug": "accessories", "warmth_relevant": false}},
+  {"model": "wardrobe.category", "pk": 6, "fields": {"name": "Dresses", "slug": "dresses", "warmth_relevant": true}}
+]
